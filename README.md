@@ -7,3 +7,4 @@
 - [load more when scrolling](cf22ca25bf9d257c93bdffa7f1358c4f1c436d16.md)
 - [named slot](a17d3276d3a7aec25ddef68d7aa7cc69c2d67aa0.md)
 - [use middleware to handle redirection](0dac7b97851630ce8aee063f6926f367909a2d23.md)
+- [register-app script & nuxt plugin store & useLocalStorage](7ab17001f0dd2a1192f361086ddf7a0c1f825a16.md)
